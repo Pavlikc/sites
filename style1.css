@@ -6,7 +6,7 @@ body{
     h1{text-align: center;}
     margin:0;
     font-size: 20px;
-    background-color: rgb(30, 34, 54);
+    background-color: #D6FF6B ;
     background-size: cover;
     img{
         image-orientation:from-image;
@@ -16,5 +16,9 @@ body{
 ul,h1,h2,p,ol{
     color: rgb(163, 49, 49);
     margin:0;
-b{color: rgb(184, 104, 104);}
+b{color:#FD98FB;}
+}
+span{
+    background-color: #5988FF ;
+    color: white;
 }
